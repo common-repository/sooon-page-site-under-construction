@@ -1,0 +1,146 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sooon.page - Site Under Construction 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress."
+"org/support/plugin/sooon_site_under_construction\n"
+"POT-Creation-Date: 2023-07-20 16:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: es_ES\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: sooon_site_under_construction\n"
+"\n"
+"X-Loco-Parser: loco_parse_po"
+
+#. Plugin Name of the plugin
+msgid "Sooon.page - Site Under Construction"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://sooon.page"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Activa o desactiva el modo \"En Construcción\" para tu sitio web. Sube tu "
+"página"
+msgstr ""
+
+#. Author of the plugin
+msgid "cabohe"
+msgstr ""
+
+#: includes/settings-page.php:24
+msgid ""
+"The ZIP file has been uploaded and the files of the page under construction "
+"have been successfully configured!"
+msgstr ""
+
+#: includes/settings-page.php:30
+msgid "Quick guide"
+msgstr ""
+
+#: includes/settings-page.php:31
+msgid ""
+"This plugin allows you to show your visitors the fantastic under "
+"construction page created at <a href=\"https://sooon.page/\" "
+"target=\"_blank\">Sooon.page</a>. To achieve this, follow these steps:"
+msgstr ""
+
+#: includes/settings-page.php:33
+msgid ""
+"<a href=\"https://sooon.page/?lang=es&action=create\" target=\"_blank\">"
+"Create your page from sooon.page</a> and download the ZIP file with your "
+"\"Under Construction\" page."
+msgstr ""
+
+#: includes/settings-page.php:34
+msgid ""
+"If you already have the file with your page, upload it using the form below."
+msgstr ""
+
+#: includes/settings-page.php:35
+msgid "If you make changes to your page, simply re-upload the file."
+msgstr ""
+
+#: includes/settings-page.php:36
+msgid ""
+"You can activate or deactivate the \"Under Construction\" mode at any time."
+msgstr ""
+
+#: includes/settings-page.php:40
+msgid "Configuration"
+msgstr ""
+
+#: includes/settings-page.php:47
+msgid "Page file"
+msgstr ""
+
+#: includes/settings-page.php:50
+msgid "A configured page file already exists"
+msgstr ""
+
+#. translators: %s: file url
+#: includes/settings-page.php:53
+msgid ""
+"If you want <a href=\"%s\">you can download it</a> to edit it in sooon.page "
+"and then upload it here, with the changes made"
+msgstr ""
+
+#: includes/settings-page.php:62 includes/settings-page.php:64
+msgid "Under construction"
+msgstr ""
+
+#: includes/settings-page.php:67
+msgid "Activate the \"Under Construction\" mode"
+msgstr ""
+
+#: includes/settings-page.php:72
+msgid "Access"
+msgstr ""
+
+#: includes/settings-page.php:75
+msgid "Full wordpress site access settings."
+msgstr ""
+
+#: includes/settings-page.php:76
+msgid "User profiles that can access:"
+msgstr ""
+
+#: includes/settings-page.php:89
+msgid "Save settings"
+msgstr ""
+
+#: includes/settings-page.php:97
+msgid "What Sooon.page has to offer"
+msgstr ""
+
+#: includes/settings-page.php:99
+msgid "Background sliders, with images, colors or gradients"
+msgstr ""
+
+#: includes/settings-page.php:100
+msgid "Newsletter forms, configuration in a minute."
+msgstr ""
+
+#: includes/settings-page.php:101
+msgid "Super customizable buttons"
+msgstr ""
+
+#: includes/settings-page.php:102
+msgid ""
+"Check the <a target=\"_blank\" href=\"https://sooon.page/web/en/features-and-"
+"prices/\">features and prices in detail</a>"
+msgstr ""
+
+msgid ""
+"If none profile selected, every profile see the coming soon page. To deselct "
+"a profile press CTRL/CMD key and mouse click."
+msgstr ""
